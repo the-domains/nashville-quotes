@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Nashville Quotes]]></title>
         <description><![CDATA[Nashville Quotes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://nashvillequotes.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 21:28:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 21:53:00 GMT</lastBuildDate>
+        <atom:link href="http://nashvillequotes.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined499cb5a2-887d-4ede-a7fc-a1ed45094f6c/index.html</link>
+            <description><![CDATA[<p>With Nashville quotes you will be able to submit an insurance request to a local, independent insurance agent at no cost.   You get the benefits of comparative shopping without the hassle of individually contacting several different carriers.  </p>]]></description>
+            <link>http://nashvillequotes.com/with-nashville-quotes-you-will-be-able-to-submit-an-insuranc/index.html</link>
+            <guid isPermaLink="false">adcff6d5-9bda-4641-b3b6-ac068cdd38e2</guid>
+            <pubDate>Wed, 13 Apr 2016 21:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Nashville Quotes</p>]]></description>
+            <link>http://nashvillequotes.com/499cb5a2-887d-4ede-a7fc-a1ed45094f6c/index.html</link>
             <guid isPermaLink="false">499cb5a2-887d-4ede-a7fc-a1ed45094f6c</guid>
             <pubDate>Wed, 13 Apr 2016 21:28:31 GMT</pubDate>
         </item>

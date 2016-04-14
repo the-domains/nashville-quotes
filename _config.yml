@@ -1,7 +1,8 @@
 name: Nashville Quotes
 favicon: null
-layout_spectrum: 0.3538545658811927
-typography_spectrum: 0.1890799794346094
+layout_spectrum: 0
+typography_spectrum: 0.14378
+title: Nashville Quotes
 cta:
   domain: null
   bucket: null
@@ -16,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.0593094015493989
+    - '#fcfcfc'
+    - '#1b1b1b'
+    - '#bdbdbd'
+    - '#535353'
+    - '#8d8d8d'
+  brandStrength: 0.125
   lightness: 0.1526665713172406
   saturation: 0.5515612731687725
   rhythmicContrast: 0.6588519450742751
